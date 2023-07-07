@@ -9,6 +9,11 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
 # Информация
+Авторы:
+Ильдар Губайдуллин (MexxMo)
+Максим Сыров (CatUnderGlue)
+Ильяс Кучукбаев (Ilyas344)
+Исакова Мария (profmi2022)
 
 **Проект:** Телеграм бот для приюта котов или собак<br>
 **Старт проекта:** 05.04.2023<br>
